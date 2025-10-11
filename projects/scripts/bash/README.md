@@ -1,0 +1,2 @@
+# Scripts bash
+Initil placeholder
