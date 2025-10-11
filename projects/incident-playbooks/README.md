@@ -24,3 +24,9 @@ Each playbook includes:
 - Lessons learned
 
 ### Example File Naming
+/incident-playbooks/phishing-playbook.md
+/incident-playbooks/malware-playbook.md
+
+### Next Steps
+- Add screenshots or decision trees.  
+- Link these to your detection lab exercises.
