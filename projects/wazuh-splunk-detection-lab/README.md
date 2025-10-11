@@ -1,7 +1,4 @@
 # Wazuh + Splunk Detection Lab
-Initial placeholder.
-
-# 🧠 Wazuh + Splunk Detection Lab
 
 ### Overview
 A home-lab SOC environment integrating **Wazuh (HIDS)** with **Splunk (SIEM)** for centralized log management, correlation, and detection engineering practice.
