@@ -1,0 +1,11 @@
+﻿#,Lab Scenario,Description,Tools / Portal Path,Completed?
+1,Create Azure Tenant,Set up free Azure sandbox or 30‑day trial,portal.azure.com,
+2,IAM – Create Users & Assign Roles,Create a user; assign RBAC role on RG,Azure AD → Users → Roles | RG → IAM,
+3,Conditional Access Policy,Require MFA for Admins (Global Admin role),Azure AD → Security → Conditional Access,
+4,Deploy Azure Firewall + NSGs,Secure VNet with subnets for Web/DB,Virtual Network → Subnets | Firewall,
+5,Enable Microsoft Defender for Cloud,Enable plans; review recommendations,Defender for Cloud → Environment Settings,
+6,Azure Key Vault,Create vault; store/retrieve secret; set access policy,Key Vaults → Access Policies,
+7,Deploy Microsoft Sentinel,Create LAW; connect AAD Sign‑in + Defender,Microsoft Sentinel → Data Connectors,
+8,Data Protection,Enable storage encryption; private endpoint,Storage Accounts → Encryption/Networking,
+9,Azure Policy,Block Public IPs via built‑in policy,Policy → Definitions → Assign Policy,
+10,Governance Dashboard,Sentinel workbook for compliance posture,Sentinel → Workbooks,
