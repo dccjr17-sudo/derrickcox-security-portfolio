@@ -1,14 +1,14 @@
 # derrickcox-security-portfolio
 Security Engineer Portfolio | Cloud Detection | SIEM Automation | Vulnerability Management | Wazuh + Splunk Labs
 
-# 🛡️ Derrick Cox | Security Engineer Portfolio
+# Derrick Cox | Security Engineer Portfolio
 
 Welcome to my cybersecurity portfolio!  
 This repository showcases hands-on projects that demonstrate my work in detection engineering, cloud security, and vulnerability management.
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |----------|--------------|
@@ -19,7 +19,7 @@ This repository showcases hands-on projects that demonstrate my work in detectio
 
 ---
 
-## ⚙️ Scripts Library
+## Scripts Library
 Reusable automation and analysis scripts:
 - [PowerShell](./projects/scripts/powershell)
 - [Bash](./projects/scripts/bash)
@@ -27,7 +27,7 @@ Reusable automation and analysis scripts:
 
 ---
 
-## 🧠 Labs & Continuous Learning
+## Labs & Continuous Learning
 | Platform | Focus Area | Highlights |
 |-----------|-------------|-------------|
 | **TryHackMe** | Security Engineer, Blue Team, Threat Hunting | 25+ rooms completed — developed SIEM tuning and Linux forensics skills. |
@@ -35,7 +35,7 @@ Reusable automation and analysis scripts:
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 AWS · Splunk · Wazuh · Nexpose · OpenVAS · Python · PowerShell · Bash · Linux · MITRE ATT&CK · SIEM Automation · Azure
 
 ---
