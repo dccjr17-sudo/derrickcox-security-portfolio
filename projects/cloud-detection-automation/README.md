@@ -1,7 +1,6 @@
 # Cloud Detection Automation
-Initial placeholder.
 
-# ☁️ Cloud Detection Automation (AWS)
+# Cloud Detection Automation (AWS)
 
 ### Overview
 Automating detection and response in AWS using native services and lightweight scripting.
