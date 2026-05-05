@@ -1,5 +1,3 @@
-# Cloud Detection Automation
-
 # Cloud Detection Automation (AWS)
 
 ### Overview
