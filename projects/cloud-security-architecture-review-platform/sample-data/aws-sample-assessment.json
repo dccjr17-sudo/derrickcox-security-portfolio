@@ -1,0 +1,18 @@
+{
+  "system_name": "Synthetic Customer Portal",
+  "cloud_provider": "AWS",
+  "data_classification": "confidential",
+  "internet_facing": true,
+  "stateful_workloads": true,
+  "application_uses_secrets": true,
+  "privileged_mfa_enabled": true,
+  "least_privilege_iam": false,
+  "public_access_restricted": true,
+  "network_segmentation_enabled": true,
+  "encryption_at_rest_enabled": true,
+  "encryption_in_transit_enabled": true,
+  "secrets_managed_securely": false,
+  "centralized_logging_enabled": true,
+  "backups_enabled": true,
+  "waf_enabled": false
+}

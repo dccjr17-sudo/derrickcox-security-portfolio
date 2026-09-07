@@ -1,10 +1,10 @@
 # derrickcox-security-portfolio
-Security Engineer Portfolio | Cloud Detection | SIEM Automation | Vulnerability Management | Wazuh + Splunk Labs
+Security Engineer Portfolio | Cloud Security Architecture | Detection Engineering | SIEM Automation | Vulnerability Management
 
 # Derrick Cox | Security Engineer Portfolio
 
 Welcome to my cybersecurity portfolio!  
-This repository showcases hands-on projects that demonstrate my work in detection engineering, cloud security, and vulnerability management.
+This repository showcases hands-on projects that demonstrate my work in security architecture, cloud security, detection engineering, automation, and vulnerability management.
 
 ---
 
@@ -12,6 +12,7 @@ This repository showcases hands-on projects that demonstrate my work in detectio
 
 | Project | Description |
 |----------|--------------|
+| [Cloud Security Architecture Review Platform](./projects/cloud-security-architecture-review-platform) | AWS-first application that evaluates proposed cloud architectures, calculates an explainable risk score, and produces severity-ranked remediation findings. |
 | [Wazuh + Splunk Detection Lab](./projects/wazuh-splunk-detection-lab) | Building a home SOC integrating Wazuh and Splunk for real-time threat detection. |
 | [Cloud Detection Automation](./projects/cloud-detection-automation) | Automating AWS GuardDuty alerts and compliance checks using Lambda and Config. |
 | [Vulnerability Management Pipeline](./projects/vulnerability-management-pipeline) | Integrating Nexpose/OpenVAS scan data into SIEM dashboards for remediation tracking. |
@@ -36,7 +37,7 @@ Reusable automation and analysis scripts:
 ---
 
 ## Tech Stack
-AWS · Splunk · Wazuh · Nexpose · OpenVAS · Python · PowerShell · Bash · Linux · MITRE ATT&CK · SIEM Automation · Azure
+AWS · Azure · Python · FastAPI · Terraform · GitHub Actions · Splunk · Wazuh · Nexpose · OpenVAS · PowerShell · Bash · Linux · MITRE ATT&CK · SIEM Automation
 
 ---
 
