@@ -42,6 +42,7 @@ Lab-demonstrated areas: Microsoft Entra ID, Okta, Microsoft Graph, PowerShell, P
 
 | Project | Description |
 |----------|--------------|
+| [Basic Kubernetes Cluster](./projects/kubernetes-basic-cluster) | Completed Pluralsight guided lab: initialized a single-node cluster with kubeadm, configured Flannel networking, deployed and scaled nginx, and verified Service access. |
 | [Wazuh + Splunk Detection Lab](./projects/wazuh-splunk-detection-lab) | Building a home SOC integrating Wazuh and Splunk for real-time threat detection. |
 | [Cloud Detection Automation](./projects/cloud-detection-automation) | Automating AWS GuardDuty alerts and compliance checks using Lambda and Config. |
 | [Vulnerability Management Pipeline](./projects/vulnerability-management-pipeline) | Integrating Nexpose/OpenVAS scan data into SIEM dashboards for remediation tracking. |
@@ -61,12 +62,12 @@ Reusable automation and analysis scripts:
 | Platform | Focus Area | Highlights |
 |-----------|-------------|-------------|
 | **TryHackMe** | Security Engineer, Blue Team, Threat Hunting | 25+ rooms completed — developed SIEM tuning and Linux forensics skills. |
-| **Pluralsight** | Cloud Security, Splunk, Detection Engineering | Applied lessons to build automated AWS GuardDuty detections. |
+| **Pluralsight** | Cloud Security, Kubernetes, Splunk, Detection Engineering | Completed [Building a Basic Kubernetes Cluster](./projects/kubernetes-basic-cluster): kubeadm, Flannel, nginx scaling, and NodePort access. Applied lessons to build automated AWS GuardDuty detections. |
 
 ---
 
 ## Tech Stack
-AWS · Splunk · Wazuh · Nexpose · OpenVAS · Python · PowerShell · Bash · Linux · MITRE ATT&CK · SIEM Automation · Azure
+AWS · Splunk · Wazuh · Nexpose · OpenVAS · Python · PowerShell · Bash · Linux · Kubernetes · kubeadm · kubectl · MITRE ATT&CK · SIEM Automation · Azure
 
 ---
 
